@@ -1,0 +1,1 @@
+C:\Users\Администратор.000\documents\visual studio 2015\Projects\counter-app\CounterApp\CounterApp.csproj;arm
